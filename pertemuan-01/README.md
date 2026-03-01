@@ -36,12 +36,14 @@ DevOps ternyata bukan sekadar aplikasi atau software, melainkan cara kerja baru.
 | **GitHub** | Tempat saya menyimpan laporan ini secara online agar bisa diakses dosen. |
 | **Markdown** | Cara menulis laporan agar tampilannya rapi dan profesional di web. |
 ### 📸 Screenshots
-| No | Screenshot | Keterangan |
-|----|------------|------------|
-| 1 | [Git Config](./screenshots/02-git-config.png) | Konfigurasi Git |
-| 2 | [Docker Version](./screenshots/03-docker-version.png) | Cek Versi Docker |
-| 3 | [Docker Hello World](./screenshots/04-docker-hello-world.png) | Menjalankan Hello World Docker |
-| 4 | [VSCode Extensions](./screenshots/05-vscode-extensions.png) | Ekstensi VS Code yang terinstall |
+| No | Keterangan | Screenshot |
+|:--:|:-----------|:-----------|
+| 1 | Versi Git | [Lihat Gambar](./screenshots/01-git-version.png) |
+| 2 | Konfigurasi Git | [Lihat Gambar](./screenshots/02-git-config.png) |
+| 3 | Versi Docker | [Lihat Gambar](./screenshots/03-docker-version.png) |
+| 4 | Hello World Docker | [Lihat Gambar](./screenshots/04-docker-hello-world.png) |
+| 5 | Ekstensi VS Code 1 | [Lihat Gambar](./screenshots/05-vscode-extensions.png) |
+| 6 | Ekstensi VS Code 2 | [Lihat Gambar](./screenshots/05-vscode-extensionss.png) |
 
 ---
 
